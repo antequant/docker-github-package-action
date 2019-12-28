@@ -1,5 +1,5 @@
-name: 'Push Docker image to GitHub Package Registry'
-description: 'Builds, tags, and pushes a Docker image as a GitHub Package associated with the repository'
+name: 'Push Docker image'
+description: 'Builds, tags, and pushes a Docker image'
 inputs:
   docker_server:
     description: 'Server to log into with docker login'
